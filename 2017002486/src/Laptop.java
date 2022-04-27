@@ -1,10 +1,8 @@
-import java.text.DateFormat;
-import java.text.FieldPosition;
-import java.text.ParsePosition;
-import java.time.LocalDate;
+//Elliot Morrison
+//2017002486
 import java.util.ArrayList;
 import java.io.*;
-import java.util.Date;
+
 
 public class Laptop implements Serializable {
     private int LaptopId;

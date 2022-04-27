@@ -1,3 +1,5 @@
+//Elliot Morrison
+//2017002486
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
